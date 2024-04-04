@@ -11,9 +11,9 @@ The primary objective was to enhance the organization's information systems secu
   - Evidence Detail: Gathered comprehensive evidence through interviews, documented policies, and recorded key personnel discussions to ensure a robust audit trail.
 
 ### Objectives
-  - Assessed compliance with NIST SP 800-53 Media Protection controls (MP-1 through MP-8).
-  - Provided well-documented evidence to support objective audit conclusions.
-  - Leveraged effective audit practices to recommend improvements and enhance the organization's cybersecurity posture.
+  - Assess compliance with NIST SP 800-53 Media Protection controls (MP-1 through MP-8).
+  - Provide well-documented evidence to support objective audit conclusions.
+  - Leverage effective audit practices to recommend improvements and enhance the organization's cybersecurity posture.
      
 <br>
 
