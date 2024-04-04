@@ -1,4 +1,4 @@
-# Capstone: Audit Lab
+# Audit Lab
 
 ## Description
 
