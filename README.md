@@ -1,5 +1,8 @@
 # Audit Lab
 
+![NIST SP 800-53](https://github.com/Manny-D/Audit-Lab/assets/99146530/145a0433-edb4-4776-a11a-8d88318433f4)
+
+
 ## Description
 
 In this project I conducted a practical, hands-on, auditing lab specifically using [NIST SP 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf) 3.1 Media Protection (MP-1 through MP-8) controls.
